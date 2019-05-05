@@ -29,6 +29,7 @@ labels = []
 for dir_name in dirs:
 #our subject directories start with letter 's' so
 #ignore any non-relevant directories if any
+
 if not dir_name.startswith("s"):
 continue;
 #------STEP-2--------
