@@ -1,1 +1,1 @@
-# Face Detection using Deep Learning
+# Image Detection using Deep Learning (Tensorflow)
